@@ -1,6 +1,4 @@
 
----
-
 # Amharic Real Time Sign Language Detection And Interpretation
 
 
@@ -104,6 +102,3 @@
     - The YOLOV8 model is provided by the Ultralytics team.
 
     We would like to extend our appreciation to the developers of the YOLO8 (You Only Look Once) object detection method, which played a crucial role in the development of our **Amharic Sign Language Interpreter**. YOLO8 is a state-of-the-art deep learning-based object detection algorithm that offers efficient and accurate real-time object detection in images. Its robustness and performance have significantly contributed to the effectiveness of our app in **interpreting Amharic sign language in real-time**. We are grateful for the innovative work and contributions of the YOLO8 team, which have enabled us to make this system in better way.
-
----
-
