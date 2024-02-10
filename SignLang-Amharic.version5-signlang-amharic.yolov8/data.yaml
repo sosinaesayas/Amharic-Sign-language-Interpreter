@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 45
+names: ['abat', 'agot', 'akst', 'amen', 'babur', 'beg', 'behuala', 'bekul', 'bet', 'dabo', 'dmet', 'egziabher', 'enat', 'ene', 'enkuan_dehna_metachu', 'eske', 'hager', 'injera', 'keziya', 'lay', 'lij', 'lomi', 'meblat', 'megerem', 'melqeq', 'menaded', 'mengist', 'meqebel', 'mestet', 'metetat', 'meyaz', 'mezlel', 'meznanat', 'migb', 'na', 'sefer', 'sga', 'tadya', 'tena_ystilgn', 'wede', 'wet', 'yene', 'yerase', 'ymesgen', 'zena']
+
+roboflow:
+  workspace: injera-mold-detection
+  project: signlang-amharic
+  version: 5
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/injera-mold-detection/signlang-amharic/dataset/5
