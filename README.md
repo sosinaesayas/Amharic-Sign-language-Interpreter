@@ -1,5 +1,5 @@
 
-# Amharic Real Time Sign Language Detection And Interpretation
+Amharic Real Time Sign Language Detection And Interpretation
 
 
 Description:
