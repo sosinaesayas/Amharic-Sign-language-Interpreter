@@ -2,12 +2,12 @@
 # Amharic Real Time Sign Language Detection And Interpretation
 
 
-### Description:
+Description:
 
     This repository contains a custom-made dataset consisting of 45 signs in the Amharic Language, a widely spoken language in Ethiopia. The dataset is specifically tailored for training a machine learning model named YOLOV8 for object detection tasks.
 
 
-### Installation:
+Installation:
 
     To install and set up the application, follow these steps:
 
@@ -18,7 +18,7 @@
     2. Install the necessary dependencies
 
 
-### Usage:
+Usage:
     To use the application, follow these steps:
 
     1. Import the required libraries:
@@ -48,13 +48,13 @@
             ...
         ```
 
-###  Features:
+Features:
     - Custom-made dataset containing 45 signs in the Amharic Language.
     - Trained YOLOV8 model for object detection tasks.
     - Real-time object detection capabilities using OpenCV.
 
 
-###  Contributing:
+Contributing:
 
     Contributions to this project are welcome. If you find any issues or would like to suggest improvements, please follow these guidelines:
 
@@ -83,7 +83,7 @@
         - Feel free to engage with other contributors and project maintainers through GitHub discussions, comments on pull requests, or other communication channels. Collaboration and constructive feedback are key to the success of the project.
 
 
-### Contact:
+Contact:
 
     For support or inquiries, you can reach out to us through the following channels:
 
@@ -96,7 +96,7 @@
     We are here to assist you and address any questions or concerns you may have regarding this project. Don't hesitate to reach out!
 
 
-### Credits:
+Credits:
 
     - The Amharic Sign Dataset was created by [Fraol Mulugeta].
     - The YOLOV8 model is provided by the Ultralytics team.
