@@ -78,7 +78,7 @@ Contributions to this project are welcome. If you find any issues or would like 
 
     - Your pull requests will undergo a review process by project maintainers. Please be patient during this review process, and be prepared to address any feedback or suggestions for improvement.
 
--Collaboration and Communication:
+- Collaboration and Communication:
 
     - Feel free to engage with other contributors and project maintainers through GitHub discussions, comments on pull requests, or other communication channels. Collaboration and constructive feedback are key to the success of the project.
 
