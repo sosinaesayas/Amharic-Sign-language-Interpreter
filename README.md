@@ -96,6 +96,9 @@ For support or inquiries, you can reach out to us through the following channels
 - Email: [kidusshun@gmail.com](mailto:kidusshun@gmail.com)
 - GitHub: [kidusshun](https://github.com/kidusshun)
 
+- Email: [sosinaesayas@gmail.com](mailto:sosinaesayas@gmail.com)
+- GitHub: [sosinaesayas](https://github.com/sosinaesayas)
+
 We are here to assist you and address any questions or concerns you may have regarding this project. Don't hesitate to reach out!
 
 
